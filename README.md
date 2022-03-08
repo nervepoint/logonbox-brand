@@ -3,7 +3,7 @@ This repository hosts LogonBox's offical icons, logos and brand requirements. Yo
 
 ![LogonBox Logo](https://github.com/nervepoint/logonbox-brand/blob/main/LogonBox-Logo-375x75.png?raw=true)
 
-![LogonBox Icon](https://github.com/nervepoint/logonbox-brand/blob/main/LogonBox-Icon.png?raw=true)
+![LogonBox Icon](https://github.com/nervepoint/logonbox-brand/blob/main/LogonBox-Icon-64x64.png?raw=true)
 
 # Developers
 
